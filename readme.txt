@@ -2,7 +2,7 @@
 Contributors: mordauk
 Tags: Easy Digital Downloads, EDD, IP address, downloads, file download
 Requires at least: 3.3
-Tested up to: 3.6
+Tested up to: 4.1
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -14,8 +14,6 @@ Lock file download access to the original purchase IP for Easy Digital Downloads
 This is a simple extension for Easy Digital Downloads to restrict file download access to the IP address originally used to purchase the files.
 
 The primary purpose of this extension is to prevent users from sharing file download links.
-
-**Note:** This will prevent customers that purchase from mobile devices or computers other than their user being able to download files from their normal computer. Use with caution.
 
 == Installation ==
 
